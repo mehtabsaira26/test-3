@@ -1,0 +1,75 @@
+/* write your CSS here */
+nav{
+    display: flex;
+    background-image: linear-gradient( white,#e5e9ec);
+    margin-top: 12px;
+    margin-bottom: 12px;
+    width: 100%;
+}
+nav p {
+    margin-top: -15px;
+}
+nav h1{
+    font-size: 22px;
+}
+section{
+    display: flex;
+    margin: 15px;
+    border: 1px solid #dadbdc;
+    border-bottom: 1px solid #dadbdc;
+    /* padding-bottom: 20px;
+    padding-top: 20px; */
+    padding: 20px;
+}
+section img{
+    margin-right: 20px;
+}
+section h1{
+    font-size: 25px;
+}
+.title{
+    color: black !important;
+}
+.para{
+    line-height: 25px;
+    width: 73%;
+    color: black;
+}
+span{
+    color: #73a839;
+}
+.logo{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+b{
+    font-size: 20px;
+}
+.price{
+    display: flex;
+}
+.button-set{
+    margin-left: auto !important;
+}
+.input-group-text{
+    background-color: #44ace9 !important;
+    color: #fff !important;
+}
+input{
+    /* border-right: none;
+    border-left: none; */
+    /* border-bottom: 1px solid #ced4da;
+    border-top:1px solid #ced4da;  */
+}
+.last-para{
+    text-align: center;
+    background-color: #d4ecf9;
+    height: 60px;
+    padding-top: 12px;
+    font-size: 19px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.form-control{
+    text-align: center;
+}
